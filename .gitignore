@@ -4,4 +4,7 @@ _build
 .settings
 hex/*
 
+.pioenvs
+.piolibdeps
+
 .vscode
