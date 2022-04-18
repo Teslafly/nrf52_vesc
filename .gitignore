@@ -4,6 +4,7 @@ _build
 .settings
 hex/*
 
+.pio
 .pioenvs
 .piolibdeps
 
